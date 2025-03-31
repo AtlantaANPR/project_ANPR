@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Dataset folders
+LP_Detection_Dataset/
+OCR_Dataset/
+
+
