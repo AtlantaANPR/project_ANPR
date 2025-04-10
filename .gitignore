@@ -177,6 +177,7 @@ cython_debug/
 LP_Detection_Dataset/
 OCR_Dataset/
 New Dataset/
+Self_Dataset/
 
 # Hide Test_Video folder due to large size
 Test_video/
