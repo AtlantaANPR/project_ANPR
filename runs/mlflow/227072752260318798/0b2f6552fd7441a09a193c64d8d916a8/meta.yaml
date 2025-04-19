@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Desktop/Project_ANPR/runs/mlflow/227072752260318798/0b2f6552fd7441a09a193c64d8d916a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '227072752260318798'
+lifecycle_stage: active
+run_id: 0b2f6552fd7441a09a193c64d8d916a8
+run_name: train3
+run_uuid: 0b2f6552fd7441a09a193c64d8d916a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745042269143
+status: 1
+tags: []
+user_id: ADMIN

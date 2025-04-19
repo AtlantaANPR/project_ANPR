@@ -1,4 +1,6 @@
-Python 3.11.0 
-tensorflow
-keras
-ultralytics
+python==3.11.0
+ultralytics==8.3.99
+torch==2.5.1+cu121
+opencv-python==4.11.0
+easyocr==1.7.2
+matplotlib==3.10.1

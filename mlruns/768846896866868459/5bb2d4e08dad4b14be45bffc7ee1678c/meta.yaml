@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Desktop/Project_ANPR/mlruns/768846896866868459/5bb2d4e08dad4b14be45bffc7ee1678c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '768846896866868459'
+lifecycle_stage: active
+run_id: 5bb2d4e08dad4b14be45bffc7ee1678c
+run_name: overjoyed-slug-911
+run_uuid: 5bb2d4e08dad4b14be45bffc7ee1678c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745039421493
+status: 1
+tags: []
+user_id: ADMIN

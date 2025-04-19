@@ -178,6 +178,8 @@ LP_Detection_Dataset/
 OCR_Dataset/
 Plate_Detection_Dataset/
 Self_Dataset/
+merge_dataset/
+
 
 # Hide Test_Video folder due to large size
 Test_video/
